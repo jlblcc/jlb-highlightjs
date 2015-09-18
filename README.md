@@ -18,7 +18,7 @@ Custom built [highlightjs](https://highlightjs.org).
 
 ## License
 
-Highlight.js is released under the BSD License. See [LICENSE][7] file
+Highlight.js is released under the BSD License. See LICENSE file
 for details.
 
 ## Links
