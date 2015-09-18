@@ -14,7 +14,8 @@ Custom built [highlightjs](https://highlightjs.org).
 ```json
 "dependencies": {
   "highlightjs": "https://github.com/jlblcc/jlb-highlightjs.git"
-}```
+}
+```
 
 ## License
 
